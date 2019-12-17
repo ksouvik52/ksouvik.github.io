@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Digbalay, a second year PhD student in the Electrical and Computer Engineering Department, University of Southern California. I work with Prof. Shrikanth Narayanan at [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu/).
+Hi! I am Digbalay, a second year PhD student in the Electrical and Computer Engineering Department, University of Southern California. I work with Prof. Shrikanth Narayanan at [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu/). I worked as a Research Software Engineer at *IBM Research Lab, Bangalore* from July 2016 to June 2018. I completed my Masters in *Electrical Engineering* from *Indian Institute of Technology, Bombay* in 2016,
+specialising in Control and Computing. Previously, I obtained my Bachelors degree in *Electronics and
+Telecommunication Engineering* from *Jadavpur University* in 2014.
 
 A data-driven personal website
 ======
