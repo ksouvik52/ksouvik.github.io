@@ -27,6 +27,7 @@ Work experience
 
 * March 2010-June 2013: Junior Telecom Officer
   * Bharat Sanchar Nigam Limited, India
+
 Skills
 ======
 * Programming skills:
