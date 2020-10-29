@@ -12,4 +12,7 @@ redirect_from:
 
 # News and updates
 
+
+* [September 2020] Souvik Kundu gets nominated as one of the 11 MHI Scholar finalist in the Ming Hsieh Dept. of Electrical and Computer Engineering, 2020-21.
 * [September 2020] Our paper on robust model compression gets accepted in [ASP-DAC 2021](http://www.aspdac.com/aspdac2021/).
+* [July 2020] Our paper "[re-defined Sparsity for Low Comptelxity Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8988206)" gets into IEEE Transactions on Computers July 2020 edition.
