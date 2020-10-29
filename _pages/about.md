@@ -12,4 +12,4 @@ redirect_from:
 
 # News and updates
 ======
-* Our paper on robust model compression gets accepted in [ASP-DAC 2021](http://www.aspdac.com/aspdac2021/).
+* [September 2020] Our paper on robust model compression gets accepted in [ASP-DAC 2021](http://www.aspdac.com/aspdac2021/).
