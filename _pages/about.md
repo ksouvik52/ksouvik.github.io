@@ -7,18 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-* I am Digbalay, a second year PhD student in the Electrical and Computer Engineering Department, University of Southern California. I work with Prof. Shrikanth Narayanan at [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu/). 
-* I worked as a Research Software Engineer at [IBM Research Lab, Bangalore](https://www.research.ibm.com/labs/india/) from July 2016 to June 2018. I completed my Masters in Electrical Engineering from [Indian Institute of Technology, Bombay](https://www.ee.iitb.ac.in/web) in 2016,
-specialising in Control and Computing. Previously, I obtained my Bachelors degree in Electronics and
-Telecommunication Engineering from [Jadavpur University](http://www.jaduniv.edu.in/) in 2014.
-* My research interests lie in the general areas of machine learning and computer vision and their associated applications in healthcare and multimodal problems .
+* Hi there, thanks for dropping by my web. You know my name already :). I am a 4th year Ph.D. student in Computer Engineering at University of Southern California working under supervision of Prof. [Massoud Pedram] (http://www.mpedram.com/) and Prof.  [Peter A. Beerel] (https://hal.usc.edu/) . I was born in India and did my B.Tech and M.Tech in Electronics Engineering from West Bengal University of Technology and [Indian Institute of Technology, Kharagpur] (http://iitkgp.ac.in/),  respectively. 
+* My technical interest includes hardware friendly Computer vision, hardware accelerator architecture design for neural networks, In/near memory computing, computer  architecture. Apart from all these catchy words I love long drive along pacific highway, traveling, playing and watching soccer. 
 
 # News and updates
 ======
-
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Our paper on robust model compression gets accepted in [ASP-DAC 2021] (http://www.aspdac.com/aspdac2021/).
