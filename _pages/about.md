@@ -11,5 +11,5 @@ redirect_from:
 * My technical interest includes hardware friendly Computer vision, hardware accelerator architecture design for neural networks, In/near memory computing, computer  architecture. Apart from all these catchy words I love long drive along pacific highway, traveling, playing and watching soccer. 
 
 # News and updates
-======
+
 * [September 2020] Our paper on robust model compression gets accepted in [ASP-DAC 2021](http://www.aspdac.com/aspdac2021/).
