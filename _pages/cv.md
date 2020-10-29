@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech (Microelectonics and VLSI Design), 2013-15
+* Ph.D in Algorithm-hardware co-design for energy and compute efficient ML accelerator, University of Southern California, Spring 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-Dec 2020: Deep Learning Research Intern
+  * Intel Labs, Santa Clara, USA
   
+* June 2016-July 2017: Digital Design Engineer
+  * Texas Instruments, India
+
+* June 2015-May 2016: R & D Engineer II
+  * Synopsys, India
+
+* March 2010-June 2013: Junior Telecom Officer
+  * Bharat Sanchar Nigam Limited, India
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming skills:
+  * Pytorch, Python
+* Hardware description language:
+  * HLS, Verilog, System-verilog
   
-Talks
+Service and Mentorships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Served as reviewer in various conferences (ISCAS, BMVC, WACV, EMNLP) and journals (IEEE TCAS I and II, Transactions on Computers, Transactions on Neural Networks and Learning Systems)
