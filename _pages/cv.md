@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Tech (Microelectonics and VLSI Design), 2013-15
-* Ph.D in Algorithm-hardware co-design for energy and compute efficient ML accelerator, University of Southern California, Spring 2022 (expected)
+* M.Tech (Microelectonics and VLSI Design), IIT Kharagpur, 2013-15
+* Ph.D in Algorithm-hardware co-design for energy and compute efficient ML accelerator, University of Southern California, Fall 2017-Spring 2022 (expected)
 
 Work experience
 ======
