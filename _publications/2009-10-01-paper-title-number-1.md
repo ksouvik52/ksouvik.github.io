@@ -1,11 +1,11 @@
----
-title: "pre-defined sparsity for low-complexity convolutional neural networks"
-collection: IEEE Transactions on Computers
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2009-10-01
-venue: 'IEEE Transactions on Computers, July 2020'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8988206'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+Journals
+========
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8988206)
+* S. Kundu, M. Nazemi, M. Pedram, K.M. Chugg, P. A. Beerel, "[Pre-Defined Sparsity For Low-Complexity Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8988206)", IEEE Transactions on Computers, July 2020'
+
+
+Conferences
+===========
+* S. Kundu,  M. Nazemi, P. A. Beerel, M. Pedram, "DNR: A Tunable Robust Pruning Framewrok Through Dynamic Network Rewiring of DNNs", ASP-DAC, 2021
+* S. Kundu, S. Prakash, H. Akrami, P. A. Beerel, K. M. Chugg, "pSConv: A Pre-defined Sparse Kernel Based Convolution", Allerton, 2019
+* A. Fayyazi, S. Kundu, S. Nazarian, P. A. Beerel, M. Pedram, "CSrram: ", ISVLSI, 2019
