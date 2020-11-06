@@ -17,7 +17,7 @@ publishDir = '.'
 [params]
 title = "Souvik Kundu"
 author = "Souvik Kundu"
-description = "Fourth year PhD student @ University of Southern California"
+description = "Fourth year PhD student @ University of Southern California, USA"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -78,10 +78,22 @@ url = "mailto:souvikku@usc.edu"
   name = "Home"
   weight = 50
   identifier = "about"
-  url = "/about/"
+  url = "/home/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 55
+  identifier = "projects"
+  url = "/projects/"
 
   [[menu.main]]
   name = "Publications"
   weight = 65
   identifier = "publications"
-  url = "/publications/"
+  url = "/publication/"
+
+  [[menu.main]]
+  name = "Talks"
+  weight = 80
+  identifier = "talks"
+  url = "/talks/"
