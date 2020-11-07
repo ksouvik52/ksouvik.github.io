@@ -6,17 +6,18 @@ aliases = ["about-me", "contact"]
 author = "Souvik Kundu"
 +++
 
-Hi there, thanks for checking out my webpage. You know my name already :smile: . I am a fourth year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I was born in India and did my B.Tech and M.Tech in Electronics Engineering from **West Bengal University of Technology** and **Indian Institute of Technology, Kharagpur**, respectively. My technical interest includes hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
+Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I was born in India and did my B.Tech and M.Tech in Electronics Engineering from **West Bengal University of Technology** and **Indian Institute of Technology, Kharagpur**, respectively. My technical interest includes hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
 
 
 ### Updates
 **[Oct 2020]**  : Our paper gets accepted at WACV 2021.
 
-**[Sept 2020]** : Souvik Kundu gets nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
+**[Sept 2020]** : Got nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
 
 
 ### Relevant Experiences
 1. Deep Learning Research Intern, **Intel AI Labs**, Santa Clara, USA,  May 2020 - till date.
+   **Mentors**: [Sairam Sundaresan](https://scholar.google.com/citations?hl=en&user=3H8HcioAAAAJ&view_op=list_works&sortby=pubdate), [Hesham Mostafa](https://scholar.google.com/citations?user=gXuEJfsAAAAJ&hl=en&oi=ao).
 
 2. Research Assistant, **University of Southern California**, USA,  August 2017 - till date.
 

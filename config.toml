@@ -17,7 +17,7 @@ publishDir = '.'
 [params]
 title = "Souvik Kundu"
 author = "Souvik Kundu"
-description = "Fourth year PhD student @ University of Southern California, USA"
+description = "4th year PhD student, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"

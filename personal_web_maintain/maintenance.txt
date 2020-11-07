@@ -1,0 +1,6 @@
+go to : /mnt/c/Users/ksouv/Desktop/ksouvik52.github.io
+do: hugo server
+do: hugo
+do: git add --all
+do: git commit -m "<your message for updating>"
+do: git push --set-upstream origin master
