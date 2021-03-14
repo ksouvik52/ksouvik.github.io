@@ -10,9 +10,11 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 
 ### Updates
+**[Dec 2020]**  : Clears Ph.D. qualifying exam.
+
 **[Oct 2020]**  : Our paper gets accepted at WACV 2021.
 
-**[Sept 2020]** : Got nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
+**[Sept 2020]** : Gets nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
 
 
 ### Relevant Experiences
