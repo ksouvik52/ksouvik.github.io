@@ -10,15 +10,15 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 
 ### Updates
-**[Dec 2020]**  : Clears Ph.D. qualifying exam.
+**[Dec 2020]**  : Passed Ph.D. qualifying exam, now a Ph.D. candidate.
 
-**[Oct 2020]**  : Our paper gets accepted at WACV 2021.
+**[Oct 2020]**  : Paper gets accepted at WACV, 2021.
 
-**[Sept 2020]** : Gets nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
+**[Sept 2020]** : Nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
 
 
 ### Relevant Experiences
-1. Deep Learning Research Intern, **Intel AI Labs**, Santa Clara, USA,  May 2020 - till date.
+1. Deep Learning Research Intern, **Intel AI Labs**, Santa Clara, USA,  June 2020 - Dec 2020.
    **Mentors**: [Sairam Sundaresan](https://scholar.google.com/citations?hl=en&user=3H8HcioAAAAJ&view_op=list_works&sortby=pubdate), [Hesham Mostafa](https://scholar.google.com/citations?user=gXuEJfsAAAAJ&hl=en&oi=ao).
 
 2. Research Assistant, **University of Southern California**, USA,  August 2017 - till date.
@@ -31,6 +31,8 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 #### 1. Conference Reviewing: 
 [ISCAS, DAC, BMVC, EMNLP] @ 2020, [WACV]@2021.
+
+Outstanding reviewer award: [**EMNLP 2020**](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf).
 #### 2. Journal Reviewing:
 IEEE Transactions on [Computers, Circuits and Systems I, II, Neural Networks and Learing Systems, CAD, MICRO], MDPI.
 #### 3. Mentoring:
