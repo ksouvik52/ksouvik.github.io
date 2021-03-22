@@ -10,11 +10,13 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 
 ### Updates
+**[Jan 2021]**  : Paper with Intel Labs gets accepted at ICASSP, 2021.
+
 **[Dec 2020]**  : Passed Ph.D. qualifying exam, now a Ph.D. candidate.
 
 **[Oct 2020]**  : Paper gets accepted at WACV, 2021.
 
-**[Sept 2020]** : Nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
+**[Sep 2020]** : Nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
 
 
 ### Relevant Experiences
