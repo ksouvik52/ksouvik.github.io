@@ -6,15 +6,19 @@ aliases = ["about-me", "contact"]
 author = "Souvik Kundu"
 +++
 
-Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under the supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I was born in India and did my B.Tech and M.Tech in Electronics Engineering from **West Bengal University of Technology** and **Indian Institute of Technology, Kharagpur**, respectively. My technical interests include hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
+Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under the supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I am an Indian by birth. My current highest academic qualification is M.Tech in Electronics (VLSI) Engineering from **Indian Institute of Technology, Kharagpur**. My technical interests include hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
 
 
 ### Updates
-**[Jan 2021]**  : Paper with Intel Labs gets accepted at ICASSP, 2021.
+**[Apr 2021]**  : Our Workshop submission on DNN privacy get accepted at **CVPR** (responsible computer vision), 2021.
 
-**[Dec 2020]**  : Passed Ph.D. qualifying exam, now a Ph.D. candidate.
+**[Apr 2021]**  : Paper gets accepted at **IJCNN**, 2021.
 
-**[Oct 2020]**  : Paper gets accepted at WACV, 2021.
+**[Jan 2021]**  : Paper with Intel Labs gets accepted at **ICASSP**, 2021.
+
+**[Dec 2020]**  : Passed Ph.D. qualifying exam, now a **Ph.D. candidate**.
+
+**[Oct 2020]**  : Paper gets accepted at **WACV**, 2021.
 
 **[Sep 2020]** : Nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
 
