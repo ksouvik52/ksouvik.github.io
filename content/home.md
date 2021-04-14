@@ -10,7 +10,7 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 
 ### Updates
-**[Apr 2021]**  : Our Workshop submission on DNN privacy get accepted at **CVPR** (responsible computer vision), 2021.
+**[Apr 2021]**  : Our Workshop submission on DNN privacy gets accepted at **CVPR** (responsible computer vision), 2021.
 
 **[Apr 2021]**  : Paper gets accepted at **IJCNN**, 2021.
 
