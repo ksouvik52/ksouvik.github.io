@@ -10,20 +10,23 @@ Hi! I am a fourth year Ph.D. student in Electrical & Computer Engineering at **U
 
 
 ### Updates
-**[Apr 2021]**  : Our Workshop submission on DNN privacy gets accepted at **CVPR** (responsible computer vision), 2021.
+**[Jun 2021]**  : Will be serving as a reviewer at **ICLR 2022**.
 
-**[Apr 2021]**  : Paper gets accepted at **IJCNN**, 2021.
+**[May 2021]**  : Will be serving as a reviewer at **NeurIPS 2021**, **BMVC 2021**.
 
-**[Jan 2021]**  : Paper with Intel Labs gets accepted at **ICASSP**, 2021.
+**[Apr 2021]**  : Our Workshop submission on DNN privacy gets accepted at **CVPR 2021** (responsible computer vision).
+
+**[Apr 2021]**  : Paper gets accepted at **IJCNN 2021**.
+
+**[Jan 2021]**  : Paper with Intel Labs gets accepted at **ICASSP 2021**.
 
 **[Dec 2020]**  : Passed Ph.D. qualifying exam, now a **Ph.D. candidate**.
 
-**[Oct 2020]**  : Paper gets accepted at **WACV**, 2021.
-
-**[Sep 2020]** : Nominated as one of the 11 finalists for the prestigious **MHI Ph.D. scholar** at USC. 
-
 
 ### Relevant Experiences
+1. Deep Learning Research Intern, **Intel AI Labs**, San Diego, USA,  June 2021 - Till date.
+   **Mentors**: [Sairam Sundaresan](https://scholar.google.com/citations?hl=en&user=3H8HcioAAAAJ&view_op=list_works&sortby=pubdate)
+
 1. Deep Learning Research Intern, **Intel AI Labs**, Santa Clara, USA,  June 2020 - Dec 2020.
    **Mentors**: [Sairam Sundaresan](https://scholar.google.com/citations?hl=en&user=3H8HcioAAAAJ&view_op=list_works&sortby=pubdate), [Hesham Mostafa](https://scholar.google.com/citations?user=gXuEJfsAAAAJ&hl=en&oi=ao).
 
