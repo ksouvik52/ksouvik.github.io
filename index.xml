@@ -31,7 +31,7 @@
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ksouvik52.github.io/projects/</guid>
-      <description>1. Reducing Spiking Activity of SNNs via Brain-Inspired Learning We propose an attention-guided compression scheme yield extremely energy-efficient SNNs.</description>
+      <description>1. A Novel Training Algorithm to Improve Model Robustness of Deep SNNs We propose a SNN training strategy that can yield improved model robustness without causing any significant sacrifice in clean image classification performance, that too at reduced memory budget and no extra training time.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ksouvik52.github.io/publication/</guid>
-      <description>Conferences   S. Kundu, S. Sundaresan, &amp;ldquo;AttentionLite: Towards Efficient Self-Attention Models for Vision”, ICASSP, 2021.</description>
+      <description>Conferences   [ICCV 2021] S. Kundu, M. Pedram, P. A.</description>
     </item>
     
     <item>
