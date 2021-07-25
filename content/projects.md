@@ -7,12 +7,13 @@ author = "Souvik Kundu"
 +++
 
 #### 1. A Novel Training Algorithm to Improve Model Robustness of Deep SNNs 
-We propose a SNN training strategy that can yield improved model robustness without causing any significant sacrifice in clean image classification performance, that too at reduced memory budget and no extra training time.
+We propose a SNN training strategy that can yield improved model robustness without causing any significant sacrifice in clean image classification performance, that **too at reduced memory budget and no extra training time**.
+
 {{< rawhtml >}}
 <img src="/images/iccv2021.jpg" alt="drawing" width="450"/>
 {{< /rawhtml >}}
 
-(*Accepted at ICCV 2021 [h5 index 184]*)
+(*Accepted at ICCV 2021 {{< rawhtml >}} <span style="color:blue">[h5 index 184]</span>{{< /rawhtml >}}*)
 
 
 #### 2. Reducing Spiking Activity of SNNs via Brain-Inspired Learning 
@@ -46,4 +47,4 @@ We propose a new form of pre-defined sparsity that can reduce the cross bar arra
 <img src="/images/isvlsi2019.jpg" alt="drawing" width="250"/>
 {{< /rawhtml >}}
 
-(*ISVLSI 2019*)
+(*Accepetd at ISVLSI 2019*)

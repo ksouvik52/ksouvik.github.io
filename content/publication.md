@@ -24,8 +24,10 @@ author = "Souvik Kundu"
 7. [[**ISVLSI 2019**](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/)] **S. Kundu**, A. Fayyazi, Shahin Nazarian, Peter A. Beerel, Massoud Pedram, "[**CSrram: Area-Efficient Low-Power Ex-Situ Training Framework for Memristive Neuromorphic Circuits Based on Clustered Sparsity**](https://ieeexplore.ieee.org/document/8839473)”.{{< rawhtml >}} <a href="/bibs/csrram_isvlsi2019.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8839473" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
 
 ### Journals
-1. **S. Kundu**, H. Mostafa, S. Sridhar, S. Sundaresan, "**Attention-based Image Upsampling**”, under review .{{< rawhtml >}} <a href="/bibs/Attention_upsam_2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2012.09904.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
+1. [[**Transactions on Computers 2020**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)] **S. Kundu**, M. Nazemi, M. Pedram, K. M. Chugg, P. A. Beerel, "[**Pre-defined Sparsity for Low-Complexity
+Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/8988206)”.{{< rawhtml >}} <a href="/bibs/predefined_TC2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2001.10710.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> <a href="https://github.com/ksouvik52/Pre-defined-sparseCNN" target="_blank"><i class="fab fa-github fa-lg"></i></a> {{< /rawhtml >}}
 
-2. **S. Kundu**, M. Nazemi, M. Pedram, K. M. Chugg, P. A. Beerel, "[**Pre-defined Sparsity for Low-Complexity
-Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/8988206)”,
-[*IEEE Transactions on Computers, July, 2020*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12).{{< rawhtml >}} <a href="/bibs/predefined_TC2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2001.10710.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> <a href="https://github.com/ksouvik52/Pre-defined-sparseCNN" target="_blank"><i class="fab fa-github fa-lg"></i></a> {{< /rawhtml >}}
+2. **S. Kundu**, H. Mostafa, S. Sridhar, S. Sundaresan, "**Attention-based Image Upsampling**”, under review .{{< rawhtml >}} <a href="/bibs/Attention_upsam_2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2012.09904.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
+
+3. **S. Kundu**, G. Datta, M. Pedram, P. A. Beerel, "**Towards Low-Latency Energy-Efficient Deep SNNs via Attention-Guided Compression**”, under review.
+4. **S. Kundu**, Y. Fu, Q. Sun, B. Ye, P. A. Beerel, M. Pedram, "**Towards Adversary aware Non-Iterative Model Pruning Through Dynamic Network Rewiring of DNNs**”, under review.
