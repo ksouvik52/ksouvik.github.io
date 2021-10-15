@@ -9,15 +9,15 @@ author = "Souvik Kundu"
 Hi! I am a final year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under the supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I am an Indian by birth. My current highest academic qualification is M.Tech in Electronics (VLSI) Engineering from **Indian Institute of Technology, Kharagpur**. My technical interests include hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
 
 
-### Updates & News
-**[Aug 2021]**  : Gave a short talk (remote) at IISc Bangalore, India.\
+### Recent Updates & News
+**[Oct 2021]**  : Will be serving as a reviewer at **ICASSP 2022**.\
+**[Sep 2021]**  : Paper on model IP vulnerability gets accepted at **NeurIPS 2021** (acceptance rate **26%**, h5index: **245**).\
+**[Aug 2021]**  : Gave a visitor talk (remote) at IISc Bangalore, India.\
 **[Aug 2021]**  : Serving as a reviewer at **ACM TECS**.\
 **[Jul 2021]**  : My **[research on model compression](https://www.linkedin.com/pulse/attentionlite-towards-efficient-self-attention-models-sundaresan/)** gets featured at **Intel Labs, USA**.\
 **[Jul 2021]**  : Paper on model robustness gets accepted at **ICCV 2021** (acceptance rate **25.9%**, h5index: **184**).\
 **[Jun 2021]**  : Will be serving as a reviewer at **ICLR 2022**.\
-**[May 2021]**  : Will be serving as a reviewer at **NeurIPS 2021**, **BMVC 2021**.\
-**[Apr 2021]**  : Our Workshop submission on DNN privacy gets accepted at **CVPR 2021** (responsible computer vision).\
-**[Apr 2021]**  : Paper gets accepted at **IJCNN 2021**.
+**[May 2021]**  : Will be serving as a reviewer at **NeurIPS 2021**, **BMVC 2021**.
 
 
 ### Work Experiences

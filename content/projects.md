@@ -6,6 +6,15 @@ aliases = ["projects", "research-pprojects", "research"]
 author = "Souvik Kundu"
 +++
 
+#### 1. Analysis of Model IP Vulnerability Under Undistillable Scenario 
+We thoroughly analyze the model IP vulnerability of models used in machine learning as a service applications (MLAAS). We further propose a distillation framework using a novel **Skeptical student** that can distill knowledge from even the undistillable models.
+
+{{< rawhtml >}}
+<img src="/images/neurips2021_framework.jpg" alt="drawing" width="450"/>
+{{< /rawhtml >}}
+
+(*Accepted at NeurIPS 2021 {{< rawhtml >}} <span style="color:blue">[h5 index 245]</span>{{< /rawhtml >}}*)
+
 #### 1. A Novel Training Algorithm to Improve Model Robustness of Deep SNNs 
 We propose a SNN training strategy that can yield improved model robustness without causing any significant sacrifice in clean image classification performance, that **too at reduced memory budget and no extra training time**.
 
