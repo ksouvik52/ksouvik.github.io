@@ -6,7 +6,7 @@ aliases = ["about-me", "contact"]
 author = "Souvik Kundu"
 +++
 
-Hi! I am a final year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under the supervision of Prof. **Massoud Pedram** ([SPORT Lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([HAL@usc](https://hal.usc.edu/)) . I am an Indian by birth. My current highest academic qualification is M.Tech in Electronics (VLSI) Engineering from **Indian Institute of Technology, Kharagpur**. My technical interests include hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography. 
+Hi! I am a final year Ph.D. student in Electrical & Computer Engineering at **University of Southern California** working under the supervision of Prof. **Massoud Pedram** ([SPORT lab](http://www.mpedram.com/)) and Prof.  **Peter A. Beerel** ([eessc lab](https://sites.usc.edu/eessc/)) . I am an Indian by birth. My current highest academic qualification is M.Tech in Electronics (VLSI) Engineering from **Indian Institute of Technology, Kharagpur**. My technical interests include hardware friendly Computer vision, hardware accelerator architecture design for neural networks, in/near memory computing, computer  architecture. I am extremely fond of long drive along pacific highway, traveling, playing and watching soccer and photography.
 
 
 ### Recent Updates & News

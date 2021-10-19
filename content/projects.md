@@ -6,7 +6,7 @@ aliases = ["projects", "research-pprojects", "research"]
 author = "Souvik Kundu"
 +++
 
-#### 1. Analysis of Model IP Vulnerability Under Undistillable Scenario 
+#### 1. Analysis of Model IP Vulnerability for Undistillable Models
 We thoroughly analyze the model IP vulnerability of models used in machine learning as a service applications (MLAAS). We further propose a distillation framework using a novel **Skeptical student** that can distill knowledge from even the undistillable models.
 
 {{< rawhtml >}}
