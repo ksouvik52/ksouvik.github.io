@@ -31,7 +31,7 @@
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ksouvik52.github.io/projects/</guid>
-      <description>1. A Novel Training Algorithm to Improve Model Robustness of Deep SNNs We propose a SNN training strategy that can yield improved model robustness without causing any significant sacrifice in clean image classification performance, that too at reduced memory budget and no extra training time.</description>
+      <description>1. Analysis of Model IP Vulnerability Under Undistillable Scenario We thoroughly analyze the model IP vulnerability of models used in machine learning as a service applications (MLAAS).</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ksouvik52.github.io/publication/</guid>
-      <description>Conferences   [ICCV 2021] S. Kundu, M. Pedram, P. A.</description>
+      <description>Conferences   [NeurIPS 2021] S. Kundu, Q. Sun, Y. Fu, M.</description>
     </item>
     
     <item>
