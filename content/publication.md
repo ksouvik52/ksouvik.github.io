@@ -8,7 +8,10 @@ author = "Souvik Kundu"
 +++
 
 ### Conferences
-1. [[**NeurIPS 2021**](https://nips.cc/)] **S. Kundu**, Q. Sun, Y. Fu, M. Pedram, P. A. Beerel, "**Analyzing the Confidentiality of Undistillable Teachers in Knowledge Distillation**".
+1. [[**DATE 2022**](https://www.date-conference.com/)] **S. Kundu**, S. Wang, Q. Sun, P. A. Beerel, M. Pedram, "**BMPQ: Bit-Gradient Sensitivity Driven Mixed Precision Quantization of DNNs from Scratch**".{{< rawhtml >}} <a href="/bibs/BMPQ_DATE2022.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2112.13843.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}.
+
+
+1. [[**NeurIPS 2021**](https://nips.cc/)] **S. Kundu**, Q. Sun, Y. Fu, M. Pedram, P. A. Beerel, "**Analyzing the Confidentiality of Undistillable Teachers in Knowledge Distillation**".{{< rawhtml >}} <a href="/bibs/Analyzing_NeurIPS2021.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://proceedings.neurips.cc/paper/2021/file/4ca82782c5372a547c104929f03fe7a9-Paper.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}.
 
 1. [[**ICCV 2021**](http://iccv2021.thecvf.com/home)] **S. Kundu**, M. Pedram, P. A. Beerel, "**HIRE-SNN: Harnessing the Inherent Robustness of Deep Spiking Neural Networks by Training with Crafted Input Noise**". {{< rawhtml >}} <a href="/bibs/Hiresnn_ICCV.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}.
 
@@ -30,7 +33,8 @@ author = "Souvik Kundu"
 1. [[**Transactions on Computers 2020**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)] **S. Kundu**, M. Nazemi, M. Pedram, K. M. Chugg, P. A. Beerel, "**Pre-defined Sparsity for Low-Complexity
 Convolutional Neural Networks**”.{{< rawhtml >}} <a href="/bibs/predefined_TC2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2001.10710.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> <a href="https://github.com/ksouvik52/Pre-defined-sparseCNN" target="_blank"><i class="fab fa-github fa-lg"></i></a> {{< /rawhtml >}}
 
-2. **S. Kundu**, H. Mostafa, S. Sridhar, S. Sundaresan, "**Attention-based Image Upsampling**”, under review .{{< rawhtml >}} <a href="/bibs/Attention_upsam_2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2012.09904.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
+2. [[**ACM Transactions on Embedded Computing Systems 2022**](https://dl.acm.org/journal/tecs)] **S. Kundu**, Y. Fu, Q. Sun, B. Ye, P. A. Beerel, M. Pedram, "**Towards Adversary aware Non-Iterative Model Pruning Through Dynamic Network Rewiring of DNNs**”.{{< rawhtml >}} <a href="/bibs/DNR_ACM_TECS2022.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://dl.acm.org/doi/abs/10.1145/3510833" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
 
-3. **S. Kundu**, G. Datta, M. Pedram, P. A. Beerel, "**Towards Low-Latency Energy-Efficient Deep SNNs via Attention-Guided Compression**”, under review.
-4. **S. Kundu**, Y. Fu, Q. Sun, B. Ye, P. A. Beerel, M. Pedram, "**Towards Adversary aware Non-Iterative Model Pruning Through Dynamic Network Rewiring of DNNs**”, under review.
+3. **S. Kundu**, H. Mostafa, S. Sridhar, S. Sundaresan, "**Attention-based Image Upsampling**”, under review .{{< rawhtml >}} <a href="/bibs/Attention_upsam_2020.bib" target="_blank"><i class="fa fa-quote-right fa-lg"></i></a> <a href="https://arxiv.org/pdf/2012.09904.pdf" target="_blank"><i class="far fa-file-pdf fa-lg"></i></a> {{< /rawhtml >}}
+
+4. **S. Kundu**, G. Datta, M. Pedram, P. A. Beerel, "**Towards Low-Latency Energy-Efficient Deep SNNs via Attention-Guided Compression**”, under review.
