@@ -14,8 +14,8 @@ author = "Souvik Kundu, Ph.D."
 **{{< rawhtml >}} <span style="color:blue">[Jun 2022]</span>{{< /rawhtml >}}**  : **I am joining Intel AI Labs, USA. I will be working from the San Diego Office**.\
 **{{< rawhtml >}} <span style="color:blue">[May 2022]</span>{{< /rawhtml >}}**  : **{{< rawhtml >}} <span style="color:DarkGoldenRod">Received highest graduate student award, Order De Arete, from USC</span>{{< /rawhtml >}}**.\
 **{{< rawhtml >}} <span style="color:blue">[Apr 2022]</span>{{< /rawhtml >}}**  : **Successfully defended in my Ph.D. dissertation presentation. Now** **{{< rawhtml >}} <span style="color:black">Dr. Souvik Kundu</span>{{< /rawhtml >}}**!!!\
-**{{< rawhtml >}} <span style="color:blue">[Mar 2022]</span>{{< /rawhtml >}}**  : **Presented in Bay area** [**Efficient ML**](https://sites.google.com/mosaicml.com/efficientmlbayarea/home) **meetup sponsored by** [**MosaicML**](https://www.mosaicml.com/).\
 **{{< rawhtml >}} <span style="color:blue">[Mar 2022]</span>{{< /rawhtml >}}**  : **{{< rawhtml >}} <span style="color:DarkGoldenRod">Received Ph.D. achievement award from USC ECE</span>{{< /rawhtml >}}**.\
+**{{< rawhtml >}}<mark style="background-color:Aquamarine  ">[Feb 2022]</mark>{{< /rawhtml >}}**  : **Two US patent applications get approved**.\
 **{{< rawhtml >}} <span style="color:blue">[Feb 2022]</span>{{< /rawhtml >}}**  : **Gave a visitor talk (remote) at IIT Kharagpur, India**.\
 **{{< rawhtml >}} <span style="color:blue">[Feb 2022]</span>{{< /rawhtml >}}**  : **Serving as a reviewer at ICML 2022, ICIP 2022**.\
 **{{< rawhtml >}}<mark style="background-color:Aquamarine  ">[Jan 2022]</mark>{{< /rawhtml >}}**  : **Paper gets accepted at ACM Transactions on Embedded Computing Systems**.\
@@ -39,12 +39,12 @@ author = "Souvik Kundu, Ph.D."
 **{{< rawhtml >}} <span style="color:blue">[2020]</span>{{< /rawhtml >}}**  **ISCAS, DAC, EMNLP ([**Outstanding reviewer**](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)), BMVC**.
 
 ##### Journal Reviewing:
-**IEEE Transactions on Computers**.\
-**IEEE Transactions on Circuits and Systems I, II**.\
-**IEEE Transactions on CAD**.\
-**IEEE MICRO, MDPI**.\
-**IEEE Transactions on Neural Networks and Learing Systems**.\
-**ACM TECS**.
+**{{< rawhtml >}} <span style="color:blue">[2020-till date]</span>{{< /rawhtml >}}** **IEEE Transactions on Computers**.\
+**{{< rawhtml >}} <span style="color:blue">[2020-till date]</span>{{< /rawhtml >}}** **IEEE Transactions on Circuits and Systems I, II**.\
+**{{< rawhtml >}} <span style="color:blue">[2021-till date]</span>{{< /rawhtml >}}** **IEEE Transactions on CAD**.\
+**{{< rawhtml >}} <span style="color:blue">[2020-2021]</span>{{< /rawhtml >}}** **IEEE MICRO, MDPI**.\
+**{{< rawhtml >}} <span style="color:blue">[2020-2021]</span>{{< /rawhtml >}}** **IEEE Transactions on Neural Networks and Learing Systems**.\
+**{{< rawhtml >}} <span style="color:blue">[2021]</span>{{< /rawhtml >}}** **ACM TECS**.
 ##### Mentoring:
 **Mentored summer interns at USC Viterbi IUSSTF program 2018, 2020, 2021**.
 **Mentored MS directed research students during Spring, Summer and Fall 2020, 2021, 2022 (spring)**.

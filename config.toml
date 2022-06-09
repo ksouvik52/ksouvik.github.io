@@ -15,9 +15,9 @@ publishDir = '.'
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "Souvik Kundu"
+title = "Souvik Kundu, Ph.D."
 author = "Souvik Kundu"
-description = "Final year PhD student, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA"
+description = "Research Scientist, Intel AI Labs, USA"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
